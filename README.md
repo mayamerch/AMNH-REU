@@ -9,6 +9,7 @@ We calculated synthetic observations of steady-state and dynamical protoplanetar
 - `surface_density.ipynb`: calculating surface density as a function of disk radius for each steady-state model
 
 **Dynamical models**:
+- `dynamical_models.ipynb`: initializing physically motivated disks modeled after the protoplanetary disk that surrounds the star GM Auriga
 - `planetary_model.ipynb`: simulates the disk response in the presence of Jupiter-mass planet at 60 AU; processed at t = 5 kyr
 - `infall_model.ipynb`: shows the development of substructure due to the impact of infalling cloud material at a radius of 40 AU; processed at t = 25 kyr
 
